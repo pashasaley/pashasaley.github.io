@@ -6,7 +6,7 @@ const GRAMMAR = {
     const: ['1','0'],
     bracket: ['(',')'],
     unar_operation: ['!'],
-    bin_operation: ['&','|'],
+    bin_operation: ['&','|','->'],
 };
 
 
